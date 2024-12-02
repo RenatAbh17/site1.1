@@ -1,0 +1,246 @@
+body {
+  font-family: "Varela Round", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.header {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  background-color: rgb(189, 183, 183);
+  background-color: black;
+  margin-bottom: 24px;
+}
+
+.header-content {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-content1 {
+  display: flex;
+  font-size: 19px;
+  color: #717171;
+}
+
+.header-content1 ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.header-content1 li {
+  margin-right: 15px;
+}
+
+.header-content2 {
+  display: flex;
+  font-size: 19px;
+  color: #717171;
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  color: darkviolet;
+}
+
+.section-content {
+  width: 937px;
+  height: 657px;
+  justify-content: center;
+  margin: auto;
+}
+
+.photo-png {
+  width: 100%;
+  margin-bottom: 24px;
+}
+
+.section-content1 {
+  margin: 24px;
+  background-color: #f5f5f7;
+}
+
+.section-content-button {
+  text-align: center;
+  color: white;
+  font-size: 24px;
+  background-color: darkviolet;
+  border: 1px solid #bdbdba;
+  border-radius: 10px;
+  padding: 5px 5px 5px 30px;
+  width: 937px;
+  margin: auto;
+  margin-bottom: 24px;
+}
+
+.section-content2 {
+  width: 1101px;
+  height: 553px;
+  margin: auto;
+}
+
+p,
+h3 {
+  max-width: 559px;
+  text-align: center;
+}
+
+.section-content4 {
+  width: 559px;
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 24px;
+}
+
+.color2 {
+  color: darkviolet;
+  letter-spacing: 0.2em;
+}
+
+.iphone-photo-png {
+  float: right;
+  margin-right: 130px;
+}
+
+.color1 {
+  text-align: center;
+  font-size: 40px;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  color: darkviolet;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #f5f5f7;
+}
+
+.card-container {
+  display: flex;
+  gap: 20px;
+}
+
+.card {
+  width: 240px;
+  height: auto;
+  background-color: #ffffff;
+  border: 1px solid #c4bfbf;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+.card-image {
+  width: 100%;
+  height: auto;
+}
+
+.card-content {
+  padding: 16px;
+}
+
+.card-content h3 {
+  margin: 0;
+  font-size: 1.5em;
+}
+
+.card-content p {
+  margin-top: 8px;
+  font-size: 1em;
+  color: #666;
+}
+
+.iphone-photo {
+  float: right;
+}
+
+.container-footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.block {
+  width: 600px;
+  height: 600px;
+
+  display: grid;
+  justify-content: center;
+  background-color: #574b63;
+}
+
+.color3 {
+  text-align: center;
+  font-size: 24px;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  color: white;
+  position: relative;
+  top: 84px;
+}
+
+.input-field {
+  width: 300px;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #ffffff;
+}
+
+.container-footer-text {
+  font-size: 19px;
+  text-align: left;
+  color: #717171;
+}
+
+.button-footer {
+  width: 240px;
+  height: 50px;
+  padding: 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 24px;
+}
+
+.submit-button {
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+}
+
+.footer {
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  background-color: rgb(189, 183, 183);
+  background-color: black;
+}
+
+.footer-content {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer-content1 {
+  display: flex;
+  font-size: 19px;
+  color: #717171;
+}
+
+.footer-content2 {
+  display: flex;
+  font-size: 19px;
+  color: #717171;
+}
